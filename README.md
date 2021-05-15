@@ -1,11 +1,11 @@
 # Apresentação
 
  **Apresentação Profissional e Pessoal:**
- *- Currículo*
-* - Certificados*
+ - Currículo
+ - Certificados
  - Vídeo de apresentação
 
-Após uma ampla experiência nas áreas administrativa, financeira e afins, busco por novos desafios no mundo da TI, mais especificamente em programação e análise de dados, área essa em constante desenvolvimento.
+Após uma ampla experiência nas áreas administrativa, financeira e afins, busco por novos desafios no mundo da TI, mais especificamente em *programação e análise de dados*, área essa em constante desenvolvimento.
 
 Sou um profissional comunicativo, com atenção aos detalhes, poder de adaptação e resolução de problemas.
 
