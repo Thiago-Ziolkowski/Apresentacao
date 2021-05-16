@@ -1,6 +1,5 @@
 
-# Apresentação ___________________________________________ ![Thiago](https://user-images.githubusercontent.com/80460444/118386460-f65b7e80-b5ed-11eb-9158-d457d959888d.png)
-
+# Apresentação
 
  **Apresentação Profissional e Pessoal:**
  - Currículo [LinkedIn](https://www.linkedin.com/in/thiago-ziolkowski-08978225/) 
@@ -18,6 +17,8 @@ A zona de conforto não está entre minhas características, sempre busco por me
 Realizei um intercâmbio de 8 meses em Dublin na Irlanda e 8 meses em Valência na Espanha. Essa experiência me fez entender a importância do idioma para nível profissional e pessoal. Atualmente tenho um nível intermediário de inglês e espanhol porém, tenho como objetivo a fluência em ambos os idiomas.
 
 __Atenciosamente__
+
+![Thiago](https://user-images.githubusercontent.com/80460444/118386460-f65b7e80-b5ed-11eb-9158-d457d959888d.png)
 
 ***
 
