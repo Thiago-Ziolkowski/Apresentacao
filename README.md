@@ -2,7 +2,7 @@
 
  **Apresentação Profissional e Pessoal:**
  - Currículo [LinkedIn](https://www.linkedin.com/in/thiago-ziolkowski-08978225/) 
- - Certificados
+ - Certificados *(Arquivos dispobíveis em View project on GitHub)*
  - Vídeo de apresentação
 
  ***
