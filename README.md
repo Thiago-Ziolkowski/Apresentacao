@@ -1,4 +1,6 @@
-# Apresentação
+
+# Apresentação ___________________________________________ ![Thiago](https://user-images.githubusercontent.com/80460444/118386460-f65b7e80-b5ed-11eb-9158-d457d959888d.png)
+
 
  **Apresentação Profissional e Pessoal:**
  - Currículo [LinkedIn](https://www.linkedin.com/in/thiago-ziolkowski-08978225/) 
