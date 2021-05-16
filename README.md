@@ -2,7 +2,7 @@
 
  **Apresentação Profissional e Pessoal:**
  - Currículo [LinkedIn](https://www.linkedin.com/in/thiago-ziolkowski-08978225/) 
- - Certificados *(Arquivos dispobíveis em View project on GitHub)*
+ - Certificados *(Arquivos disponíveis em View project on GitHub)*
  - Vídeo de apresentação
 
  ***
@@ -15,4 +15,8 @@ A zona de conforto não está entre minhas características, sempre busco por me
 
 Realizei um intercâmbio de 8 meses em Dublin na Irlanda e 8 meses em Valência na Espanha. Essa experiência me fez entender a importância do idioma para nível profissional e pessoal. Atualmente tenho um nível intermediário de inglês e espanhol porém, tenho como objetivo a fluência em ambos os idiomas.
 
->Atenciosamente.
+__Atenciosamente__
+
+***
+
+```("Let's find a way")```
